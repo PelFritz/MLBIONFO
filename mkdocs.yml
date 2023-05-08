@@ -1,0 +1,12 @@
+site_name: Machine Learning for Bioinformatics
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings:
+
+nav:
+  - Home: index.md
+  - Target Sequence Finder: project_2.md
+  - PCA: project_3.md
